@@ -16,7 +16,7 @@
 // alert(resultado);
 
 
-
+é possível fazer com switchi
 // while e true é necessário nessa atividade? caso sim, como ele funciona em js? 
 function inicioChat() {
     alert('Bem vindo ao chat! Escolha uma opção:');
